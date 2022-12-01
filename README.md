@@ -3,4 +3,4 @@
 
 
 Name: Aditya Singh
-LinkdedIn: https://www.linkedin.com/in/ad1tyas1ngh/
+LinkedIn: https://www.linkedin.com/in/ad1tyas1ngh/
