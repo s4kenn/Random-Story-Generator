@@ -1,5 +1,5 @@
 # random-story-generator
- In this project i haver created a random story generator in python using random module, list, conditional statements and loops
+ In this project i have created a random story generator in python using random module, list, conditional statements and loops
 
 
 Name: Aditya Singh
