@@ -12,14 +12,14 @@ while True:
       n=int(input("Press 1 to generate story and 2 to exit: "))
       print()
       if n == 1:
-            Sentence_starter = ['About 300 years ago', ' In the 20 BC','Once upon a time', 'Back in the days']
-            character = [' there lived a queen.', ' there was a woman named Ayesha.',' there lived a small girl Adeena.']
+            Sentence_starter = ['About 300 years ago', ' In the 20 BC','Once upon a time', 'Back in the days', 'In a land far away', 'On a bright sunny morning']
+            character = ['there lived a brave knight' , ' there lived a queen.', ' there lived a curious explorer', ' there lived a mischievous cat', 'there was a woman named Ayesha.',' there lived a small girl Adeena.']
             time = [' One day', ' One full-moon night']
             story_plot = [' she was passing by', ' she was going to ']
-            place = [' the mountains.', ' the garden.']
-            second_character = [' She saw a old man', ' She saw a young boy']
+            place = [' the snowy mountains.', ' the abandoned garden.', 'the enchanted forest', 'the sea coast',]
+            second_character = [' She saw an old man', ' She saw a young boy', 'She saw a little girl']
             age = [' who seemed very tired', ' who seemed very poor']
-            work = [' searching something.', ' digging a well on roadside.']
+            work = [' searching something.', ' digging a well on roadside.', 'sitting under a tree.']
             story = [' Within no time she started narrating a story,',
                  ' Suddenly she began with a story,']
             when = [' "A few years ago', ' "Yesterday',
